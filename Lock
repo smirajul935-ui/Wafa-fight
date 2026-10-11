@@ -1,0 +1,9 @@
+{
+  "admin_contact": "https://t.me/SagarTech99",
+  "telegram_channel": "https://t.me/SagarTech99_Channel",
+  "allowed_ids": [
+    "A1B2C3D4E5F6",
+    "X9Y8Z7W6V5U4",
+    "ENTER_NEW_DEVICE_ID_HERE"
+  ]
+}
